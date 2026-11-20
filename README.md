@@ -1,6 +1,6 @@
 # Hi, I'm Ravendra Singh 👋
 
-### Full-Stack Developer | SaaS Builder | Entrepreneur
+### Senior Software Developer
 
 I'm a passionate Full-Stack Developer with 2+ years of experience building web applications, backend systems, APIs, and scalable business solutions.
 
@@ -21,7 +21,7 @@ I'm a passionate Full-Stack Developer with 2+ years of experience building web a
 To build impactful technology products that solve real business problems and make everyday work smarter.
 
 ### 🤝 Let's Connect
-- **Website:** https://smattio.com
+- **Website:** https://ravendra-portfolio-two.vercel.app
 - **GitHub:** https://github.com/tech-ravendra
 
 *Code. Build. Innovate. Repeat.*
